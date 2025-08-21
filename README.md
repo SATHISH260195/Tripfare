@@ -3,7 +3,7 @@ Slide 1 – Title Slide
 
 Domain: Urban Transportation Analytics & Predictive Modeling
 
-By: Your Name
+By: Sathish kumar
 
 Slide 2 – Skills Takeaway
 Exploratory Data Analysis (EDA)
